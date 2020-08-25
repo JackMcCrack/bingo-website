@@ -1,0 +1,7 @@
+.*.swp
+bingo/__pycache__
+bingo/bin/
+bingo/lib/
+bingo/lib64
+bingo/pyvenv.cfg
+

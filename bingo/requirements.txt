@@ -1,0 +1,10 @@
+blinker==1.4
+Flask==1.0.2
+Jinja2==2.10
+MarkupSafe==1.1.0
+pyxdg==0.25
+simplejson==3.16.0
+Werkzeug==0.14.1
+WTForms==2.2.1
+Flask-WTF==0.14.2
+

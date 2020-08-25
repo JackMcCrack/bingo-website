@@ -1,0 +1,26 @@
+button.field, div.header {
+	border: 1px dotted #000000;
+	margin: 2px;
+	padding: 0px;
+	text-align: center;
+	height: 60px;
+	width: 60px;
+	line-height: 60px;
+}
+div.header {
+	margin-bottom: 10px;
+	display: inline-table;
+}
+
+button.clicked {
+	background: lightblue;
+}
+
+@media only screen and (min-width: 768px) {
+button.field, div.header {
+	height: 80px;
+	width: 80px;
+	line-height: 80px;
+
+}
+}
